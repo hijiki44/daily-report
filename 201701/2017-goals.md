@@ -27,8 +27,8 @@
 - [x] 色彩効果
 
 ### HTML5 プロフェッショナル認定試験レベル 1
-- [ ] Chapter01： HTML の基礎知識
-- [ ] Chapter02： HTML5 で追加された要素
+- [x] Chapter01： HTML の基礎知識
+- [x] Chapter02： HTML5 で追加された要素
 - [ ] Chapter03： HTML5 で変更・廃止された要素
 - [ ] Chapter04： HTML4.01 以前からある要素
 - [ ] Chapter05： CSS の基礎知識
